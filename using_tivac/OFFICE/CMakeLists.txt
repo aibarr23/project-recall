@@ -5,7 +5,7 @@ project(linux_blinky)
 include(tm4c123g.cmake)
 
 #Tivaware files $ENV{HOME}/tiva-projects/tivaware
-set(TIVAWARE_PATH "/mnt/c/Users/aibar/Downloads/REPOSITORY/project-guild/Embedded-Systems/Training-Camp/using_tivac/tivaware")
+set(TIVAWARE_PATH "/mnt/c/Users/aibar/Downloads/REPOSITORY/project-recall/using_tivac/tivaware")
 include_directories(${TIVAWARE_PATH})
 
 #Source files
